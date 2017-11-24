@@ -80,12 +80,12 @@ a:focus,
 a:active {
     text-decoration: none;
     outline: none;
-    color: #333333;
+    color: #012456;
 }
 
 b {
     font-weight: 600;
-    color: #333333;
+    color: #012456;
 }
 
 p {
@@ -238,7 +238,7 @@ button {
     left: 50%;
     margin: -26px 0 0 -26px;
     font-size: 10px;
-    border-right: 5px solid #333333;
+    border-right: 5px solid #012456;
     border-left: 5px solid #012456;
     border-radius: 50%;
     -webkit-animation: spinner 700ms infinite linear;
@@ -306,7 +306,7 @@ button {
 
 .menu-link li a {
     display: block;
-    color: #333333;
+    color: #012456;
     text-align: center;
     font-size: 13px;
     transition: all 0.3s ease-in-out;
@@ -448,7 +448,7 @@ tr > td:nth-child(2) {
 /* Owl Carousel Navigation */
 
 .owl-navi {
-    color: #333333;
+    color: #012456;
 }
 
 .owl-theme .owl-controls .owl-buttons div {
@@ -496,11 +496,11 @@ tr > td:nth-child(2) {
 }
 
 .contact-us-detail a {
-    color: #333333;
+    color: #012456;
 }
 
 .contact-us-detail a:hover {
-    color: #333333;
+    color: #012456;
 }
 
 .form-group {
@@ -541,7 +541,7 @@ tr > td:nth-child(2) {
 /* Testimonials */
 
 .testimonial-content {
-    background: #333333;
+    background: #012456;
     padding: 20px 30px;
     position: relative;
     margin-top: 40px;
@@ -554,7 +554,7 @@ tr > td:nth-child(2) {
     position: absolute;
     width: 0;
     height: 0;
-    border-top: 15px solid #333333;
+    border-top: 15px solid #012456;
     border-left: 10px solid transparent;
     border-right: 10px solid transparent;
 }
@@ -565,7 +565,7 @@ tr > td:nth-child(2) {
 }
 
 .testimonial-client img {
-    border: 1px dashed #333333;
+    border: 1px dashed #012456;
     border-radius: 50%;
     width: 90px;
 }
@@ -614,7 +614,7 @@ div.blog-post {
 }
 
 .blog-post .post-title h1 {
-    color: #333333;
+    color: #012456;
     font-size: 35px;
     line-height: 45px;
     font-weight: 700;
@@ -650,7 +650,7 @@ div.blog-post {
 /* Video Tutorial */
 
 .video-box {
-    background: #333333;
+    background: #012456;
     width: 70%;
     margin: 0 auto;
     height: 100%;
@@ -732,7 +732,7 @@ div.blog-post {
     font-family: 'fontawesome';
     display: inline-block;
     float: right;
-    color: #333333;
+    color: #012456;
     font-size: 35px;
     position: relative;
     right: 0px;
@@ -748,34 +748,34 @@ blockquote {
 
 
 /* Code */
-
 .pre {
-    font-family: "Courier 10 Pitch", Courier, monospace;
-    font-size: 110%;
-    line-height: 140%;
-    white-space: pre;
-    white-space: pre-wrap;
-    white-space: -moz-pre-wrap;
-    white-space: -o-pre-wrap;
-}       
+    font-size: 100%;
+    line-height: 1.2em;
+    font-family: Monaco, Consolas, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, monospace;
+    white-space: pre; 
+    white-space: pre-wrap; 
+    white-space: -moz-pre-wrap; 
+    white-space: -o-pre-wrap; 
 
-.code {
-    font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
-    font-size: 110%;
-    line-height: 140%;
-    white-space: pre;
-    white-space: pre-wrap;
-    white-space: -moz-pre-wrap;
-    white-space: -o-pre-wrap;
-    background: #faf8f0;
-}
-
-.contentcode {
+    height:1%;
+    width: auto;
     display: block;
-    padding: 0.5em 1em;
-    border: 1px solid #bebab0;
+    clear: both;
+    color: #FFFFFF;
+    padding: 0.5em 0.5em;
+    margin: auto 40px auto 40px;
+    background: #012456;
+    border: solid 1px #e1e1e1
+} 
+.code { 
+    font-size: 100%;
+    /*line-height: 1.2em;*/
+    font-family: Monaco, Consolas, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, monospace;
+    display: inline; 
+    color: #FFFFFF;
+    padding: 0.2em 0.2em;
+    background: #012456;
 }
-
 
 
 
@@ -788,7 +788,7 @@ blockquote {
 
 .list li {
     font-size: 18px;
-    color: #333333;
+    color: #012456;
     font-weight: 400;
     margin-bottom: 10px;
 }
@@ -827,12 +827,12 @@ blockquote {
 }
 
 .endpage-box h4 {
-    color: #333333;
+    color: #012456;
     font-weight: 600;
 }
 
 .endpage-box a {
-    color: #333333;
+    color: #012456;
 }
 
 .endpage-box a:hover {
@@ -860,7 +860,7 @@ blockquote {
     width: 75px;
     overflow: hidden;
     border-radius: 100%;
-    background-color: #333333;
+    background-color: #012456;
 }
 
 .about-author .c-padding {
@@ -974,7 +974,7 @@ blockquote {
 	padding: 20px;
 	border-radius: 50px;
 	border: solid 7px #012456;
-	background: #333333;
+	background: #012456;
 	color: #ffffff;
 	width: 100%;
 	font-size: 15px;
@@ -1160,7 +1160,7 @@ blockquote {
 }
 
 .github {
-   background-color: #333333;
+   background-color: #012456;
 }
 
 .skype {
@@ -1196,7 +1196,7 @@ blockquote {
 
 .scroll-to-top:hover,
 .scroll-to-top:focus {
-    color: #333333;
+    color: #012456;
 }
 
 
@@ -1820,7 +1820,7 @@ blockquote {
 /* UiPasta Credit */
 
 .uipasta-credit {
-    color: #333333;
+    color: #012456;
     text-align: center;
     margin-top: 20px;
 }
@@ -1831,5 +1831,5 @@ blockquote {
 }
 
 .uipasta-credit a:hover {
-    color: #333333;
+    color: #012456;
 }
